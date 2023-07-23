@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="792171e6-ada8-4725-9e95-4e23a29148a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/array/Best Time to Buy and Sell Stock II.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Gas Station.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Gas Station_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/H-Index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Insert Delete GetRandom.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Insert Delete GetRandom_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Jump Game.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Jump Game_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Product of Array Except Self.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/Product of Array Except Self_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/hIndex_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/hard/Candy.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array/hard/Candy_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struct/backtracking.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/struct/backtracking_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/array/BestTimetoBuyandSellStock_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/array/BestTimetoBuyandSellStock_test.go" afterDir="false" />
+    <list default="true" id="792171e6-ada8-4725-9e95-4e23a29148a7" name="Changes" comment="init project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +132,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
